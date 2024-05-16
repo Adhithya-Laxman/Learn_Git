@@ -1,1 +1,2 @@
-HEY This is the new test file
+HEY This is the new test file.
+New Line should be added.
